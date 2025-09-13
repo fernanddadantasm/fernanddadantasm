@@ -5,7 +5,7 @@
 </picture>
 
 
-# 👩‍💻 Olá, eu sou a Fernanda Dantas 
+# 👩‍💻 Olá, eu sou Fernanda Dantas 
 
 ## 🚀 Linguagens
 <p align="left"> 
