@@ -35,7 +35,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/fernanddadantasm/fernanddadantasm/blob/main/assets/logo_ufba.png?raw=true" alt="Logo UFBA" width="60"></td>
+    <td valign="top"><img src="https://github.com/fernanddadantasm/fernanddadantasm/blob/main/Brasão_da_UFBA.png?raw=true" alt="Logo UFBA" width="60"></td>
     <td>
       <strong>Bacharelado Interdisciplinar em Ciência e Tecnologia</strong><br>
       Universidade Federal da Bahia (UFBA)<br>
