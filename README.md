@@ -27,9 +27,21 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandadantasm&show_icons=true&theme=radical)
 
 ## 📈 Linguagens mais usadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandadantasm&layout=compact&theme=radical&v=1)
 
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens:
+<div style="display: inline_block">
 
+<br> 
+	
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+[![html](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Ferramentas:
+<div style="display: inline_block">
 ## 🎓 Academic Background  
 **Student of Systems and Development**  
 [Serviço Nacional de Aprendizagem Industrial - SENAI](https://www.portaldaindustria.com.br/senai/)  
