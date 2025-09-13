@@ -27,7 +27,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandadantasm&show_icons=true&theme=radical)
 
 ## 📈 Linguagens mais usadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandadantasm&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandadantasm&layout=compact&theme=radical&v=1)
+
 
 ## 🎓 Academic Background  
 **Student of Systems and Development**  
