@@ -20,7 +20,7 @@
 ## 🛠 Ferramentas 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> 
-  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canva_Logo.png" alt="Canva" width="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40"/></a>
 </p>
 
 ## 📚 Formação Acadêmica
@@ -35,11 +35,11 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/43954156/168393521-85669533-35a8-4364-897b-83c9320d0999.png" alt="Logo UFBA" width="60"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/master-da-web/logos-universidades-brasil/master/ufba.svg" alt="Logo UFBA" width="60"></td>
     <td>
       <strong>Bacharelado Interdisciplinar em Ciência e Tecnologia</strong><br>
       Universidade Federal da Bahia (UFBA)<br>
-      <em>(Adicione aqui o período do seu curso na UFBA)</em>
+      <em>Início em 2025 – Previsão de término em 2028</em>
     </td>
   </tr>
 </table>
