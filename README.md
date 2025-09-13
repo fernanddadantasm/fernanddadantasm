@@ -35,7 +35,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/master-da-web/logos-universidades-brasil/master/ufba.svg" alt="Logo UFBA" width="60"></td>
+    <td valign="top"><img src="https://www.ufba.br/sites/portal.ufba.br/files/brasao_ufba.png" alt="Logo UFBA" width="60"></td>
     <td>
       <strong>Bacharelado Interdisciplinar em Ciência e Tecnologia</strong><br>
       Universidade Federal da Bahia (UFBA)<br>
@@ -46,5 +46,5 @@
 
 ## 📊 Minhas Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandadantasm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandadantasm&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernanddadantasm&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanddadantasm&layout=compact&theme=radical)
