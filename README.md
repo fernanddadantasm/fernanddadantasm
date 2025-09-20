@@ -25,11 +25,14 @@
 ## 📚 Formação Acadêmica
 
 <table>
-  <tr>
-    [<img align="left" height="100px" width="100px" src="https://github.com/v21sobral/v21sobral/blob/main/img/SenaiAnima.gif"/>](https://senai.portaldaindustria.com.br/)  
-**Student of systems and development**  
-[**Serviço Nacional de Aprendizagem Industrial - SENAI**](https://senai.portaldaindustria.com.br/)  
-Febuary 2025 – December 2026
+ <tr>
+    <td valign="top" width="100px">
+      <img src="https://github.com/v21sobral/v21sobral/blob/main/img/SenaiAnima.gif" alt="Logo SENAI" width="80">
+    </td>
+    <td>
+      <strong>Student of Systems Development</strong><br>
+      <a href="https://senai.portaldaindustria.com.br/">Serviço Nacional de Aprendizagem Industrial - SENAI</a><br>
+      <em>February 2025 – December 2026</em>
     </td>
   </tr>
   <tr>
