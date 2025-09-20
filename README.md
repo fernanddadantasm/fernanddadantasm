@@ -26,11 +26,10 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo-1.png" alt="Logo SENAI" width="60"></td>
-    <td>
-      <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-      Serviço Nacional de Aprendizagem Industrial (SENAI)<br>
-      <em>Fevereiro de 2025 – Dezembro de 2026</em>
+    [<img align="left" height="100px" width="100px" src="https://github.com/v21sobral/v21sobral/blob/main/img/SenaiAnima.gif"/>](https://senai.portaldaindustria.com.br/)  
+**Student of systems and development**  
+[**Serviço Nacional de Aprendizagem Industrial - SENAI**](https://senai.portaldaindustria.com.br/)  
+Febuary 2025 – December 2026
     </td>
   </tr>
   <tr>
