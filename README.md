@@ -30,7 +30,7 @@
       <img src="https://github.com/v21sobral/v21sobral/blob/main/img/SenaiAnima.gif" alt="Logo SENAI" width="80">
     </td>
     <td>
-      <strong>Student of Systems Development</strong><br>
+      <strong>Estudante de Desenvolvimento de Sistemas</strong><br>
       <a href="https://senai.portaldaindustria.com.br/">Serviço Nacional de Aprendizagem Industrial - SENAI</a><br>
       <em>Fevereiro 2025 – Dezembro 2026</em>
     </td>
