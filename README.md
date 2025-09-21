@@ -32,7 +32,7 @@
     <td>
       <strong>Student of Systems Development</strong><br>
       <a href="https://senai.portaldaindustria.com.br/">Serviço Nacional de Aprendizagem Industrial - SENAI</a><br>
-      <em>February 2025 – December 2026</em>
+      <em>Fevereiro 2025 – Dezembro 2026</em>
     </td>
   </tr>
   <tr>
