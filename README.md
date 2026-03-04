@@ -67,7 +67,4 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernanddadantasm" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernanddadantasm" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernanddadantasm&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanddadantasm&layout=compact&theme=radical)
