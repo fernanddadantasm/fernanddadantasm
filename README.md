@@ -68,6 +68,6 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanddadantasm&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanddadantasm&layout=compact&langs_count=7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernanddadantasm" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernanddadantasm" />
 </p>
