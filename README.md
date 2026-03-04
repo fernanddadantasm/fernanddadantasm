@@ -66,4 +66,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Streak](https://streak-stats.demolab.com?user=fernanddadantasm)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernanddadantasm" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernanddadantasm" />
+</p>
